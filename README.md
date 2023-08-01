@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React Js, Redux**
 
-- 👨‍💻 All of my projects are available at [[https://github.com/Hozaifa1212](https://github.com/Hozaifa1212.github.io)](https://github.com/Hozaifa1212)
+- 👨‍💻 All of my projects are available at [[https://github.com/Hozaifa1212](https://github.com/Hozaifa1212.github.io)]
 
 - 💬 Ask me about **OOP**
 
